@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brentaureli/Desktop/AdMobDemo/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b14c5de0ed9e23fee0e9b1ed638b90a370764c63">
+        <dex dex="/Users/brentaureli/Desktop/AdMobDemo/android/build/intermediates/pre-dexed/debug/core-1.0-75e4a5edd1cb43322ce42a1980d09f3bb9755edb.jar" />
+    </item>
+
+</items>
